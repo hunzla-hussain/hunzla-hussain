@@ -1,161 +1,95 @@
+<h1 align="center">Hi, I'm Hunzla Hussain 👋</h1>
+<h3 align="center">Senior Software Engineer — Backend Architecture, Node.js & TypeScript Ecosystem</h3>
+
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" height="200"/>
-</p>
-<hr>
-<h1 align="center">Hi 👋, I'm Hunzla Hussain</h1>
-<h3 align="center">Software Engineer</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/hunzlahussain/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Linked in" height="30" width="40" /></a>
- <a href = "mailto: hunzlahussain7869@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
-</p>
+  Building scalable, event-driven backend systems for SaaS and enterprise platforms — 5+ years designing REST APIs, RBAC, and PostgreSQL-backed services for globally distributed teams.
 </p>
 
 <p align="center">
- <em>
-  This is Hunzla Hussain,<br>
-  a <b>Software Engineer</b> 👨🏻‍💻 specializing in the <b>MERN stack</b>, <b>NestJS</b>, and <b>scalable cloud-based architectures</b>.<br>
-  I build <b>high-performance</b>, <b>scalable</b>, and <b>AI-powered</b> web applications using React, Next.js, Node.js, NestJS, PostgreSQL, and AWS.<br>
-  Experienced in <b>REST APIs</b>, <b>GraphQL</b>, <b>WebSockets</b>, and microservices architecture.<br>
-  I also work with <b>AI integrations</b> (OpenAI), <b>automation systems</b>, and <b>intelligent workflows</b>.<br>
-  Passionate about performance optimization, clean architecture, and solving complex problems 🚀
-</em>
-  <br>
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Always learning, building, and improving 🚀</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
+  <a href="https://www.linkedin.com/in/hunzlahussain/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:hunzlahussain7869@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-## 🚀💻 Technologies & Tools
+---
 
-### <u>Languages:</u>
+### 🚀 About Me
 
-<span><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="25" /></span>
+I'm a backend-focused Software Engineer currently leading backend architecture at **Elevex**, where I design modular, event-driven microservices for enterprise HRM platforms. Over the past 5+ years I've owned service architecture end-to-end — schema design, indexing strategy, authentication/RBAC, and CI/CD — across marketplace, HRM, fintech-ledger, and POS platforms serving 10K+ users.
+
+- 🔭 Currently building event-driven microservices in **NestJS + TypeScript** on top of **PostgreSQL** (Prisma/TypeORM)
+- ⚙️ Focus areas: **REST API design, RBAC & auth (JWT/OAuth), query optimization, real-time systems (WebSockets/Redis/BullMQ)**
+- ☁️ Ship and own infra: **Docker, Terraform, GitHub Actions, AWS (EC2, RDS, ECR)**, blue-green deployments
+- 🧪 Advocate for **TDD** and code quality — Jest, Playwright, 90%+ coverage on past projects
+- 🌍 Experienced collaborating across time zones with distributed teams
+- 🤝 Mentor engineers on API design, code review standards, and testing practices
 
 ---
 
-### <u>Backend Development:</u>
+### 🛠️ Tech Stack
 
-<span><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/TypeORM-E83524?style=for-the-badge" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Bull-FF6C37?style=for-the-badge" height="25" /></span>
-<span><img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" height="25" /></span>
-&nbsp;
+**Languages & Frameworks**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 
----
+**Databases & ORMs**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=flat-square)
 
-### <u>Frontend Development:</u>
-
-<span><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="25" /></span>
-
----
-
-### <u>APIs & Communication:</u>
-
-<span><img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge" height="25" /></span>
-&nbsp;
+**Infra, Real-Time & Testing**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 
 ---
 
+### 💼 Experience
 
-### <u>Database & Caching:</u>
+**Senior Software Engineer** @ Elevex · *Feb 2025 – Present*
+Leading backend architecture for enterprise HRM platforms — event-driven microservices in NestJS/TypeScript, Prisma/TypeORM + PostgreSQL with indexing strategies that cut query times by 45%, JWT-based auth & RBAC, WebSocket/Redis/BullMQ real-time systems, and CI/CD (GitHub Actions, Docker, Terraform, AWS blue-green deploys). Mentoring engineers on API design and testing standards.
 
-<span><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB logo" title="MongoDB" height="25" /></span>
-&nbsp;
-&nbsp;
-<span><img src = "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL logo" title="MySQL" height="25"/>
-</span>
-&nbsp;
+**Software Engineer** @ HisabKarLay · *Jan 2024 – Jan 2025*
+Led backend architecture for a 10K+ user marketplace, migrating legacy Express services to NestJS (−30% production incidents), building Redis-backed caching/queue pipelines (+50% throughput), and implementing JWT/RBAC access control.
+
+**Associate Software Engineer** @ AbramSoft (Pvt) Ltd · *Aug 2021 – Dec 2023*
+Built Node.js/Express REST APIs and React frontends across multiple client applications (90%+ Jest coverage), optimized PostgreSQL query/index design, and implemented SSR/dynamic routing with Next.js for SEO and load-time gains.
 
 ---
 
-### <u>Cloud & DevOps:</u>
-&nbsp;
-<span><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS logo" title="Amazon Web Services" height="25" /></span>
-&nbsp;
-&nbsp;
-<span><img src="https://img.shields.io/badge/AWS%20API%20Gateway-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS API Gateway logo" title="AWS API Gateway" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" height="25" /></span>
-<span><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/CI/CD-222222?style=for-the-badge" height="25" /></span>
-&nbsp;
+### 🧩 Featured Projects
 
-
-### <u>AI & Automation:</u>
-
-<span><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/AI_Integration-000000?style=for-the-badge" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Automation-FF6F00?style=for-the-badge" height="25" /></span>
-&nbsp;
+| Project | Description | Stack |
+|---|---|---|
+| **AI Learn Pulse (LMS)** | High-throughput marketplace backend with fault-tolerant third-party API integrations and Next.js admin dashboards | Node.js, Next.js, PostgreSQL, REST APIs |
+| **Elevex Ledger** | Financial ledger system — schema and REST API design from scratch with auditable, query-optimized data flows | Node.js, PostgreSQL, REST APIs |
+| **HRM Platform** | Multi-tenant HR management platform with RBAC and workflow automation | NestJS, PostgreSQL, RBAC |
+| **OrderKarlay** | Restaurant/mart POS and ordering platform for local businesses | React.js, Node.js, PostgreSQL |
 
 ---
 
+### 📊 GitHub Stats
 
-### <u>Testing & Tools:</u>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hunzla-hussain&show_icons=true&theme=default&count_private=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hunzla-hussain" height="165"/>
+</p>
 
-<span><img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Microservices-333333?style=for-the-badge" alt="Microservices" title="Microservices" height="25" /></span>
-&nbsp;
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hunzla-hussain&layout=compact" height="165"/>
+</p>
 
-### <u>Version Control & Development Tools:</u>
+---
 
-<span><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" height="25" /></span>
-&nbsp;
-
-
-### <u> Operating Systems and Others:</u>
-
-<span>
-<img src = "https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Logo"  title="Linux" height="25"/>
-</span>
-&nbsp;
-<span>
-<img src = "https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu Logo"  title="Ubuntu" height="25"/>
-</span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
-
-
-<br>
-
-
-
-<hr>
-
-#### <u> A Random Joke for You:</u>
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
+<p align="center">
+  📫 Reach me at <a href="mailto:hunzlahussain7869@gmail.com">hunzlahussain7869@gmail.com</a> or on <a href="https://www.linkedin.com/in/hunzlahussain/">LinkedIn</a>
+</p>
